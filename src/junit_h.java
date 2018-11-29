@@ -59,17 +59,17 @@ public class junit_h extends TestCase {
    * * Присваиваем вводным данным значения
 
   */
-	  double Cold_Water = 1;
-	  double Electricity = 1;
-	  double Gas_House =1;
+	  double Cold_Water = 2;
+	  double Electricity = 2;
+	  double Gas_House =2;
 
 
 	  /**
-	  * Присваиваем переменной значение 5018.97
-	  * (верный/ожидаемый результат расчета коммунальных услуг = 5018.97 руб.)
+	  * Присваиваем переменной значение 10037.94
+	  * (верный/ожидаемый результат расчета коммунальных услуг = 10037.94.)
 	  */
 
-  double summary_expected = 5018.97;
+  double summary_expected = 10037.94;
   /**
 
 * Присваиваем переменной значени
